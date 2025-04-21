@@ -19,7 +19,7 @@ A modern, interactive web application for generating AI images using Next.js 14,
   - Multiple style options
   - Real-time preview
 
-## 🚀 Technologies
+## 🚀 Tech stack
 
 - Next.js 14 with App Router
 - React
