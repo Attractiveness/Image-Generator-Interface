@@ -1,15 +1,77 @@
-# Ansh & Riley Full-Stack Template
+# AI Image Generator Interface (Work in Progress)
 
-This is a full-stack template project for Software Composers to create  applications with AI.
+A modern, interactive web application for generating AI images using Next.js 14, React, and Tailwind CSS.
 
-## Getting started
-To create a new project, you go to `/paths`, choose from our list of Paths, and then use Cursor's Composer feature to quickly scaffold your project!
+## 🌟 Features
 
-You can also edit the Path's prompt template to be whatever you like!
+- **Interactive UI**
+  - Dynamic liquid effect following mouse movement
+  - Responsive design with beautiful animations
+  - Dark mode interface with neon accents
 
-## Technologies used
-This doesn't really matter, but is useful for the AI to understand more about this project. We are using the following technologies
-- React with Next.js 14 App Router
-- TailwindCSS
-- Firebase Auth, Storage, and Database
-- Multiple AI endpoints including OpenAI, Anthropic, and Replicate using Vercel's AI SDK
+- **Smart Prompt Enhancement**
+  - Context-aware prompt improvements
+  - Quality and style suggestions
+  - Intelligent composition recommendations
+
+- **Image Generation**
+  - High-quality image generation
+  - Multiple style options
+  - Real-time preview
+
+## 🚀 Technologies
+
+- Next.js 14 with App Router
+- React
+- TypeScript
+- Tailwind CSS
+- Vercel AI SDK
+- Replicate API (Stable Diffusion)
+
+## 🛠️ Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Attractiveness/IMAGEGENSITE.git
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Set up environment variables:
+Create a `.env.local` file with:
+```env
+REPLICATE_API_KEY=your_api_key_here
+```
+
+4. Run the development server:
+```bash
+npm run dev
+```
+
+## 🎨 Features in Development
+
+- [ ] Image history and gallery
+- [ ] Advanced customization options
+- [ ] User authentication
+- [ ] Sharing capabilities
+- [ ] Additional AI models integration
+
+## 🌐 API Integrations
+
+- Replicate API for Stable Diffusion
+- More integrations coming soon...
+
+## 📝 Note
+
+This project is currently under active development. Features and documentation will be updated regularly.
+
+## 🤝 Contributing
+
+While this project is still in development, contributions, ideas, and feedback are welcome. Please feel free to open an issue or submit a pull request.
+
+## 📄 License
+
+MIT License - feel free to use this project for your own purposes.
