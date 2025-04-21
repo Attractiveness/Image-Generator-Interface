@@ -32,7 +32,7 @@ A modern, interactive web application for generating AI images using Next.js 14,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Attractiveness/IMAGEGENSITE.git
+git clone https://github.com/Attractiveness/Image-Generator-Interface.git
 ```
 
 2. Install dependencies:
